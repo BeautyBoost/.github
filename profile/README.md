@@ -1,12 +1,14 @@
-## Hi there 👋
+# *Member of the Team:*
 
-<!--
+## Machine Learning :
+### Aldin Nasrun Minalloh (M268D4KY3374) - Machine Learning - Universitas Muhammadiyah Surakarta		
+### Aldhyno Yoghatama (M268D4KY2860) - Machine Learning - Universitas Muhammadiyah Surakarta		
+### Mumtaaza Eky Wardana (M008D4KY2455) - Machine Learning - Universitas Gadjah Mada		
 
-**Here are some ideas to get you started:**
+## Cloud Computing :
+### Muhammad Fathan Hakim (C550D4NY1338) - Cloud Computing - Universitas Islam Negeri Syarif Hidayatulah		
+### Sa’Id Ali Nuryudha Hisbullah (C550D4NY1339) - Cloud Computing - Universitas Islam Negeri Syarif Hidayatulah		
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Mobile Developer :
+### Muhammad Alif Ferdyansyah (A550D4NY4616) - Mobile Development - Universitas Islam Negeri Syarif Hidayatulah		
+### Alif Rahmat Yudha Putra (A268D4KY3377) - Mobile Development - Universitas Muhammadiyah Surakarta		
